@@ -5,7 +5,7 @@ public class DuplicateCharinString {
     public static void main(String[] args) {
 
 
-        String name = "Rudhr";
+        String name = "rudhrah";
 
         char a[] = name.toCharArray();
 
@@ -17,11 +17,10 @@ public class DuplicateCharinString {
 
                 if (a[i] == a[j]) {
                     duplicate = a[i];
+                    System.out.println(duplicate);
                 }
             }
         }
-
-        System.out.println(duplicate);
 
     }
 }

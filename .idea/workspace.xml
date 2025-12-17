@@ -5,12 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd33f476-40f7-4c03-96c7-111ae7a7e299" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPrograms/StringPrograms/DuplicateCharinString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPrograms/StringPrograms/reverseString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPrograms/StringPrograms/CheckIfStringIsNonAlphabetic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPrograms/StringPrograms/RemoveSpecialCharsFromString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPrograms/StringPrograms/ReverseEachWordInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPrograms/StringPrograms/SkipFewWordsInSentence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPrograms/StringPrograms/TwoStringPalindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaPrograms/ArrayPrograms/AddDiagonalElementsInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPrograms/ArrayPrograms/AddDiagonalElementsInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Practise/JavaPrograms/StringPrograms/DuplicateCharinString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Practise/JavaPrograms/StringPrograms/DuplicateCharinString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Practise/JavaPrograms/StringPrograms/reverseString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Practise/JavaPrograms/StringPrograms/reverseString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaPrograms/StringPrograms/DuplicateCharinString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPrograms/StringPrograms/DuplicateCharinString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaPrograms/StringPrograms/reverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPrograms/StringPrograms/reverseString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,9 +31,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="34L0M9cwyhQtkbzyWrpZ131dURX" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -37,7 +41,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CheckIfStringIsNonAlphabetic.executor": "Run",
     "Application.DuplicateCharinString.executor": "Run",
+    "Application.OnlyCharString.executor": "Run",
+    "Application.RemoveSpecialChars.executor": "Run",
+    "Application.ReverseEachWordInString.executor": "Run",
+    "Application.SkipFewWordsInSentence.executor": "Run",
+    "Application.StringPalindrome.executor": "Run",
     "Application.reverseString.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -51,6 +61,82 @@
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.SkipFewWordsInSentence">
+    <configuration name="CheckIfStringIsNonAlphabetic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaPrograms.StringPrograms.CheckIfStringIsNonAlphabetic" />
+      <module name="Java Practise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaPrograms.StringPrograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DuplicateCharinString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaPrograms.StringPrograms.DuplicateCharinString" />
+      <module name="Java Practise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaPrograms.StringPrograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveSpecialCharsFromString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaPrograms.StringPrograms.RemoveSpecialCharsFromString" />
+      <module name="Java Practise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaPrograms.StringPrograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseEachWordInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaPrograms.StringPrograms.ReverseEachWordInString" />
+      <module name="Java Practise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaPrograms.StringPrograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SkipFewWordsInSentence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaPrograms.StringPrograms.SkipFewWordsInSentence" />
+      <module name="Java Practise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaPrograms.StringPrograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SkipFewWordsInSentence" />
+        <item itemvalue="Application.ReverseEachWordInString" />
+        <item itemvalue="Application.CheckIfStringIsNonAlphabetic" />
+        <item itemvalue="Application.RemoveSpecialCharsFromString" />
+        <item itemvalue="Application.DuplicateCharinString" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -68,5 +154,13 @@
       <updated>1760977498084</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="Character.isAlphabetic(c)" />
+        <watch expression="Character.isDigit(c)" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
