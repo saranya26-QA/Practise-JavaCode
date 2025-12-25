@@ -9,7 +9,6 @@ public class RemoveSpecialCharsFromString {
 
         String name ="";
 
-
         for(char c:a)
         {
             if(Character.isAlphabetic(c) || Character.isDigit(c))

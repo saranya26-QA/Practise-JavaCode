@@ -3,7 +3,7 @@ package JavaPrograms.StringPrograms;
 public class CheckIfStringIsNonAlphabetic {
     public static void main(String[] args) {
 
-        String s = "BooooooaBy";
+        String s = "B1aBy";
         char[] a = s.toCharArray();
         Boolean flag = true;
 

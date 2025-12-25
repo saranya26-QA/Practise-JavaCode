@@ -5,16 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd33f476-40f7-4c03-96c7-111ae7a7e299" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JavaPrograms/StringPrograms/CheckIfStringIsNonAlphabetic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPrograms/StringPrograms/RemoveSpecialCharsFromString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPrograms/StringPrograms/ReverseEachWordInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPrograms/StringPrograms/SkipFewWordsInSentence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPrograms/StringPrograms/TwoStringPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPrograms/StringPrograms/CheckIfStringHasSpecialChars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPrograms/StringPrograms/CheckStringHasOnlyNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPrograms/StringPrograms/CheckStringisAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPrograms/StringPrograms/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPrograms/StringPrograms/PrintStringMirror.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPrograms/StringPrograms/RemoveDuplicatesfromString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPrograms/StringPrograms/ReverseInteger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Practise/JavaPrograms/StringPrograms/CheckIfStringIsNonAlphabetic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Practise/JavaPrograms/StringPrograms/CheckIfStringIsNonAlphabetic.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java Practise/JavaPrograms/StringPrograms/DuplicateCharinString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Practise/JavaPrograms/StringPrograms/DuplicateCharinString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Practise/JavaPrograms/StringPrograms/reverseString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Practise/JavaPrograms/StringPrograms/reverseString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Practise/JavaPrograms/StringPrograms/RemoveSpecialCharsFromString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Practise/JavaPrograms/StringPrograms/RemoveSpecialCharsFromString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaPrograms/StringPrograms/CheckIfStringIsNonAlphabetic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPrograms/StringPrograms/CheckIfStringIsNonAlphabetic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/JavaPrograms/StringPrograms/DuplicateCharinString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPrograms/StringPrograms/DuplicateCharinString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaPrograms/StringPrograms/reverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPrograms/StringPrograms/reverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaPrograms/StringPrograms/RemoveSpecialCharsFromString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPrograms/StringPrograms/RemoveSpecialCharsFromString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,11 +45,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CheckIfStringHasSpecialChars.executor": "Run",
     "Application.CheckIfStringIsNonAlphabetic.executor": "Run",
-    "Application.DuplicateCharinString.executor": "Run",
+    "Application.CheckStringHasOnlyNum.executor": "Run",
+    "Application.CheckStringisAnagram.executor": "Run",
+    "Application.DuplicateCharinString.executor": "Debug",
     "Application.OnlyCharString.executor": "Run",
+    "Application.Practice.executor": "Run",
+    "Application.PrintStringMirror.executor": "Run",
+    "Application.RemoveDuplicatesfromString.executor": "Run",
     "Application.RemoveSpecialChars.executor": "Run",
     "Application.ReverseEachWordInString.executor": "Run",
+    "Application.ReverseInteger.executor": "Run",
     "Application.SkipFewWordsInSentence.executor": "Run",
     "Application.StringPalindrome.executor": "Run",
     "Application.reverseString.executor": "Run",
@@ -61,9 +72,9 @@
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SkipFewWordsInSentence">
-    <configuration name="CheckIfStringIsNonAlphabetic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaPrograms.StringPrograms.CheckIfStringIsNonAlphabetic" />
+  <component name="RunManager" selected="Application.CheckStringisAnagram">
+    <configuration name="CheckStringisAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaPrograms.StringPrograms.CheckStringisAnagram" />
       <module name="Java Practise" />
       <extension name="coverage">
         <pattern>
@@ -75,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DuplicateCharinString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaPrograms.StringPrograms.DuplicateCharinString" />
+    <configuration name="PrintStringMirror" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaPrograms.StringPrograms.PrintStringMirror" />
       <module name="Java Practise" />
       <extension name="coverage">
         <pattern>
@@ -88,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveSpecialCharsFromString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaPrograms.StringPrograms.RemoveSpecialCharsFromString" />
+    <configuration name="RemoveDuplicatesfromString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaPrograms.StringPrograms.RemoveDuplicatesfromString" />
       <module name="Java Practise" />
       <extension name="coverage">
         <pattern>
@@ -129,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SkipFewWordsInSentence" />
+        <item itemvalue="Application.CheckStringisAnagram" />
+        <item itemvalue="Application.RemoveDuplicatesfromString" />
+        <item itemvalue="Application.PrintStringMirror" />
         <item itemvalue="Application.ReverseEachWordInString" />
-        <item itemvalue="Application.CheckIfStringIsNonAlphabetic" />
-        <item itemvalue="Application.RemoveSpecialCharsFromString" />
-        <item itemvalue="Application.DuplicateCharinString" />
+        <item itemvalue="Application.SkipFewWordsInSentence" />
       </list>
     </recent_temporary>
   </component>
@@ -160,6 +171,7 @@
       <configuration name="Application">
         <watch expression="Character.isAlphabetic(c)" />
         <watch expression="Character.isDigit(c)" />
+        <watch expression="b[i]" />
       </configuration>
     </watches-manager>
   </component>
