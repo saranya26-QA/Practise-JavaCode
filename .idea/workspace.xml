@@ -5,20 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd33f476-40f7-4c03-96c7-111ae7a7e299" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JavaPrograms/StringPrograms/CheckIfStringHasSpecialChars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPrograms/StringPrograms/CheckStringHasOnlyNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPrograms/StringPrograms/CheckStringisAnagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPrograms/StringPrograms/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPrograms/StringPrograms/PrintStringMirror.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPrograms/StringPrograms/RemoveDuplicatesfromString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPrograms/StringPrograms/ReverseInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPrograms/ArrayPrograms/Fibnocci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPrograms/ArrayPrograms/MultipleEachElementBy2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPrograms/ArrayPrograms/PrimeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPrograms/ArrayPrograms/Reversearrayinplace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPrograms/StringPrograms/CheckIfStringHasVowelsAndCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPrograms/StringPrograms/CheckStringHasNumber_AddThem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPrograms/StringPrograms/ConvertUppercasetoLowercase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPrograms/StringPrograms/FindSumofNnumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPrograms/StringPrograms/PrintLettersBasedOnNumberinString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPrograms/StringPrograms/PrintNumberBasedonCharRepeat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPrograms/StringPrograms/RemoveSpacesInString_AddNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Practise/JavaPrograms/StringPrograms/CheckIfStringIsNonAlphabetic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Practise/JavaPrograms/StringPrograms/CheckIfStringIsNonAlphabetic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Practise/JavaPrograms/CollectionsPrograms/PrintDuplicateNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Practise/JavaPrograms/CollectionsPrograms/PrintDuplicateNumbers.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java Practise/JavaPrograms/StringPrograms/DuplicateCharinString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Practise/JavaPrograms/StringPrograms/DuplicateCharinString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Practise/JavaPrograms/StringPrograms/RemoveSpecialCharsFromString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Practise/JavaPrograms/StringPrograms/RemoveSpecialCharsFromString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaPrograms/StringPrograms/CheckIfStringIsNonAlphabetic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPrograms/StringPrograms/CheckIfStringIsNonAlphabetic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaPrograms/CollectionsPrograms/PrintDuplicateNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPrograms/CollectionsPrograms/PrintDuplicateNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaPrograms/CollectionsPrograms/UniqueNumbs_InArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPrograms/CollectionsPrograms/UniqueNumbs_InArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/JavaPrograms/StringPrograms/DuplicateCharinString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPrograms/StringPrograms/DuplicateCharinString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaPrograms/StringPrograms/RemoveSpecialCharsFromString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaPrograms/StringPrograms/RemoveSpecialCharsFromString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,20 +48,39 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Char_Occurance.executor": "Run",
     "Application.CheckIfStringHasSpecialChars.executor": "Run",
+    "Application.CheckIfStringHasVowels.executor": "Run",
+    "Application.CheckIfStringHasVowelsAndCount.executor": "Run",
     "Application.CheckIfStringIsNonAlphabetic.executor": "Run",
+    "Application.CheckStringHasNumber_AddThem.executor": "Run",
     "Application.CheckStringHasOnlyNum.executor": "Run",
     "Application.CheckStringisAnagram.executor": "Run",
-    "Application.DuplicateCharinString.executor": "Debug",
+    "Application.CommonUniqueNames.executor": "Run",
+    "Application.ConvertUppercasetoLowercase.executor": "Run",
+    "Application.DuplicateCharinString.executor": "Run",
+    "Application.DuplicateNum_Occurance.executor": "Run",
+    "Application.Fibnocci.executor": "Run",
+    "Application.FindSumofNnumbers.executor": "Run",
+    "Application.MultipleEachElementBy2.executor": "Run",
     "Application.OnlyCharString.executor": "Run",
     "Application.Practice.executor": "Run",
+    "Application.PrimeNumbers.executor": "Run",
+    "Application.PrintDuplicateNumbers.executor": "Run",
+    "Application.PrintLettersBasedOnNumberinString.executor": "Run",
+    "Application.PrintNumberBasedonCharRepeat.executor": "Run",
     "Application.PrintStringMirror.executor": "Run",
     "Application.RemoveDuplicatesfromString.executor": "Run",
+    "Application.RemoveSpacesInString_AddNumbers.executor": "Run",
     "Application.RemoveSpecialChars.executor": "Run",
     "Application.ReverseEachWordInString.executor": "Run",
     "Application.ReverseInteger.executor": "Run",
+    "Application.Reversearrayinplace.executor": "Run",
     "Application.SkipFewWordsInSentence.executor": "Run",
+    "Application.SortArray_MissingNum.executor": "Run",
+    "Application.SortRemoveDuplicates.executor": "Run",
     "Application.StringPalindrome.executor": "Run",
+    "Application.UniqueNumbs_InArray.executor": "Run",
     "Application.reverseString.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -72,9 +94,9 @@
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CheckStringisAnagram">
-    <configuration name="CheckStringisAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaPrograms.StringPrograms.CheckStringisAnagram" />
+  <component name="RunManager" selected="Application.Reversearrayinplace">
+    <configuration name="CheckIfStringHasVowelsAndCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaPrograms.StringPrograms.CheckIfStringHasVowelsAndCount" />
       <module name="Java Practise" />
       <extension name="coverage">
         <pattern>
@@ -86,8 +108,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintStringMirror" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaPrograms.StringPrograms.PrintStringMirror" />
+    <configuration name="CommonUniqueNames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaPrograms.CollectionsPrograms.CommonUniqueNames" />
+      <module name="Java Practise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaPrograms.CollectionsPrograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaPrograms.ArrayPrograms.PrimeNumbers" />
+      <module name="Java Practise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaPrograms.ArrayPrograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintNumberBasedonCharRepeat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaPrograms.StringPrograms.PrintNumberBasedonCharRepeat" />
       <module name="Java Practise" />
       <extension name="coverage">
         <pattern>
@@ -99,38 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicatesfromString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaPrograms.StringPrograms.RemoveDuplicatesfromString" />
+    <configuration name="Reversearrayinplace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaPrograms.ArrayPrograms.Reversearrayinplace" />
       <module name="Java Practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaPrograms.StringPrograms.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReverseEachWordInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaPrograms.StringPrograms.ReverseEachWordInString" />
-      <module name="Java Practise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaPrograms.StringPrograms.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SkipFewWordsInSentence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaPrograms.StringPrograms.SkipFewWordsInSentence" />
-      <module name="Java Practise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaPrograms.StringPrograms.*" />
+          <option name="PATTERN" value="JavaPrograms.ArrayPrograms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CheckStringisAnagram" />
-        <item itemvalue="Application.RemoveDuplicatesfromString" />
-        <item itemvalue="Application.PrintStringMirror" />
-        <item itemvalue="Application.ReverseEachWordInString" />
-        <item itemvalue="Application.SkipFewWordsInSentence" />
+        <item itemvalue="Application.Reversearrayinplace" />
+        <item itemvalue="Application.PrimeNumbers" />
+        <item itemvalue="Application.CheckIfStringHasVowelsAndCount" />
+        <item itemvalue="Application.PrintNumberBasedonCharRepeat" />
+        <item itemvalue="Application.CommonUniqueNames" />
       </list>
     </recent_temporary>
   </component>
@@ -165,14 +187,5 @@
       <updated>1760977498084</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="Character.isAlphabetic(c)" />
-        <watch expression="Character.isDigit(c)" />
-        <watch expression="b[i]" />
-      </configuration>
-    </watches-manager>
   </component>
 </project>

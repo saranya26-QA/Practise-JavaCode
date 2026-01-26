@@ -17,7 +17,8 @@ public class PrintDuplicateNumbers {
             }
             
         }
-
+        System.out.println("Unique: "+Uniquenums);
         System.out.println("Duplicates: "+Duplicates);
+
     }
 }

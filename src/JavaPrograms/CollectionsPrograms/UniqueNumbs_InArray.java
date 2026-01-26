@@ -7,9 +7,10 @@ public class UniqueNumbs_InArray {
         int[] arr= {2,3,4,1,4,5,6,7,6,8,7,9,0};
         HashSet<Integer> newarr = new HashSet<>();
         for(int i: arr)
-        {    
-            newarr.add(i);
+        {
+           newarr.add(i);
         }
         System.out.println("Hash :"+newarr);
         }
-    }
+        }
+

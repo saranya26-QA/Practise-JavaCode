@@ -5,7 +5,7 @@ public class DuplicateCharinString {
     public static void main(String[] args) {
 
 
-        String name = "priyanka";
+        String name = "sasaranyay";
         char a[] = name.toCharArray();
         char duplicate = ' ';
         for (int i = 0; i < a.length; i++) {
